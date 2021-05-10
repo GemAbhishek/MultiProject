@@ -1,0 +1,13 @@
+G:\MyProject\Chegg\code\Multi\FriendConsole\bin\Debug\netcoreapp3.1\FriendConsole.exe
+G:\MyProject\Chegg\code\Multi\FriendConsole\bin\Debug\netcoreapp3.1\FriendConsole.deps.json
+G:\MyProject\Chegg\code\Multi\FriendConsole\bin\Debug\netcoreapp3.1\FriendConsole.runtimeconfig.json
+G:\MyProject\Chegg\code\Multi\FriendConsole\bin\Debug\netcoreapp3.1\FriendConsole.runtimeconfig.dev.json
+G:\MyProject\Chegg\code\Multi\FriendConsole\bin\Debug\netcoreapp3.1\FriendConsole.dll
+G:\MyProject\Chegg\code\Multi\FriendConsole\bin\Debug\netcoreapp3.1\FriendConsole.pdb
+G:\MyProject\Chegg\code\Multi\FriendConsole\obj\Debug\netcoreapp3.1\FriendConsole.csprojAssemblyReference.cache
+G:\MyProject\Chegg\code\Multi\FriendConsole\obj\Debug\netcoreapp3.1\FriendConsole.AssemblyInfoInputs.cache
+G:\MyProject\Chegg\code\Multi\FriendConsole\obj\Debug\netcoreapp3.1\FriendConsole.AssemblyInfo.cs
+G:\MyProject\Chegg\code\Multi\FriendConsole\obj\Debug\netcoreapp3.1\FriendConsole.csproj.CoreCompileInputs.cache
+G:\MyProject\Chegg\code\Multi\FriendConsole\obj\Debug\netcoreapp3.1\FriendConsole.dll
+G:\MyProject\Chegg\code\Multi\FriendConsole\obj\Debug\netcoreapp3.1\FriendConsole.pdb
+G:\MyProject\Chegg\code\Multi\FriendConsole\obj\Debug\netcoreapp3.1\FriendConsole.genruntimeconfig.cache
